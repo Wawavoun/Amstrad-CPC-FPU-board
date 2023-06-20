@@ -1,4 +1,4 @@
-A library for use the board with Microsot Bascom (Basic compiler) and Fortran-80.
+A library for use the board with Microsoft Bascom (Basic compiler) and Fortran-80.
 I have test it under CPM Plus.
 
 Usage :
