@@ -12,6 +12,9 @@ To check board into Locomotive Basic :
 2- make 4 times Print IN(&FBFF) and read in this order 2,201,15,218 (pi representation in 4 bytes float)
 If its ok then... success !
 
+I only test the bord with a Intel C8231 at 2 and 4 MHz.
+AM9512 and C8232 are really difficult to source and I never find one. If you have information about that please take contact.
+
 Have fun !
 
 20/06/2023
