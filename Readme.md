@@ -11,7 +11,7 @@ To check board into Locomotive Basic :
 
 1- make OUT &FBFE,26  ask the FPU to put pi on the stack
 
-2- make 4 times Print IN(&FBFF) and read in this order 2,201,15,218 (pi representation in 4 bytes float)
+2- make 4 times Print IN(&FBFF) and read in this order 2, 201, 15, 218 (pi representation in 4 bytes float)
 
 If its ok then... success !
 
