@@ -14,7 +14,9 @@ lib80 libapu.rel=am9511.rel,apu.rel/e --> libapu.rel
 bascom =aputst.bas/o/l --> aputst.rel
 
 4 link with or without the library (for use ou not the fpu)
+
 (with) l80 aputst.rel,libapu.rel,aputst.com/n/y/e
+
 or (without) l80 aputst.rel,aputst.com/n/y/e --> aputst.com
 
 and check speed improvment !
