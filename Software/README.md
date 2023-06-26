@@ -13,7 +13,7 @@ lib80 libapu.rel=am9511.rel,apu.rel/e --> libapu.rel
 3_ compile a basic test program
 bascom =aputst.bas/o/l --> aputst.rel
 
-4 link with or without the library (for use ou not the fpu)
+4_ link with or without the library (for use ou not the fpu)
 
 (with) l80 aputst.rel,libapu.rel,aputst.com/n/y/e
 
