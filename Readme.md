@@ -8,8 +8,11 @@ The board can be set for 4 MHz clock or 2 MHz clock (one jumper).
 Usually AMD --> 2 MHz, INTEL --> 4 MHz but double check the exact reference of your FPU. 
 
 To check board into Locomotive Basic :
+
 1- make OUT &FBFE,26  ask the FPU to put pi on the stack
+
 2- make 4 times Print IN(&FBFF) and read in this order 2,201,15,218 (pi representation in 4 bytes float)
+
 If its ok then... success !
 
 I only test the board with a Intel C8231 at 2 and 4 MHz.
