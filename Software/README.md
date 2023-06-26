@@ -23,4 +23,4 @@ and check speed improvment !
 
 There is some warnings about double definitions but works well...
 
-Inspired for the job of ratboy666 here : https://github.com/ratboy666/apu
+Inspired from the job of ratboy666 here : https://github.com/ratboy666/apu
